@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/willian12/VerilogDesign/MysqlConnectCpp/build",
+  "command": "/usr/bin/g++  -DCHAIN_TYPE_BTC -DCHAIN_TYPE_STR=\\\"BTC\\\" -DHAVE_CONFIG_H -Isrc -I../3rdparty -I../src -I../test -I/work/bitcoin-0.16.3/src -I/work/bitcoin-0.16.3/src/config -I/work/bitcoin-0.16.3/src/secp256k1/include -I../3rdparty/mysql/include  -g -O0 -Wall -Wdelete-non-virtual-dtor -Wfatal-errors -g   -std=gnu++1z -o CMakeFiles/mysqlTest.dir/src/mysqltest/main.cc.o -c /home/willian12/VerilogDesign/MysqlConnectCpp/src/mysqltest/main.cc",
+  "file": "/home/willian12/VerilogDesign/MysqlConnectCpp/src/mysqltest/main.cc"
+}
+]
